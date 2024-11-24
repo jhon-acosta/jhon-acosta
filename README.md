@@ -6,12 +6,6 @@ Desarrollador apasionado por crear soluciones escalables y eficaces. Con experie
 
 ---
 
-## 🌐 Contacto
-- **Correo:** [jhon.erick.acosta@gmail.com](mailto:jhon.erick.acosta@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jhon-acosta](https://www.linkedin.com/in/jhon-acosta-661464292/)
-
----
-
 ## 🏆 Resumen Profesional
 - 🔹 **Años de experiencia**: 3+ en desarrollo de software.
 - 🔹 **Especialidad**: Sistemas distribuidos, APIs escalables, y microservicios.
@@ -19,16 +13,23 @@ Desarrollador apasionado por crear soluciones escalables y eficaces. Con experie
 
 ---
 
-## 📈 Dashboard de GitHub
+## 📊 Estadísticas y Logros
 
-### 📊 Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-acosta&layout=compact&theme=github_dark&hide=html,css&langs_count=6)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-acosta&layout=compact&theme=github_dark&hide=html,css&langs_count=6" alt="Lenguajes más usados"></td>
+    <td><img src="https://streak-stats.demolab.com?user=jhon-acosta&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="Racha de Contribuciones"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h3>🌟 Logros y Trophies</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=jhon-acosta&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies">
+    </td>
+  </tr>
+</table>
 
-### 🔥 Racha de Contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=jhon-acosta&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)
-
-## 🌟 Logros y Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=jhon-acosta&theme=gruvbox&margin-w=15&margin-h=15)
 
 ---
 
