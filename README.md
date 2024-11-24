@@ -9,7 +9,7 @@ Desarrollador apasionado por crear soluciones escalables y eficaces. Con experie
 
 ---
 
-## 🏆 Resumen Profesional
+### 🏆 Resumen Profesional
 - 🔹 **Años de experiencia**: 3+ en desarrollo de software.
 - 🔹 **Especialidad**: Sistemas distribuidos, APIs escalables, y microservicios.
 - 🔹 **Stack principal**: Node.js, Docker, MongoDB, Kubernetes.
