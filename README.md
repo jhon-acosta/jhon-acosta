@@ -32,16 +32,6 @@ Desarrollador apasionado por crear soluciones escalables y eficaces. Con experie
 
 ---
 
-## 🛠️ Habilidades Técnicas
-| **Lenguajes** | **Frameworks & Librerías** | **Herramientas DevOps** |
-|---------------|----------------------------|--------------------------|
-| JavaScript, TypeScript, Rust | Node.js, Next.js, React | Docker, Kubernetes, Nginx |
-| Python, Bash | Express.js, Fastify | GitHub Actions, Terraform |
-| SQL, MongoDB | TailwindCSS, Ant Design | Prometheus, Grafana |
-
-
----
-
 *"El código limpio no es una opción, es una filosofía que define al ingeniero."*
 
 ---
