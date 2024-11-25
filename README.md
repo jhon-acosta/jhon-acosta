@@ -4,8 +4,9 @@
 
 Desarrollador apasionado por crear soluciones escalables y eficaces. Con experiencia en tecnologías de backend, frontend y sistemas distribuidos. ¡Siempre en busca de nuevos retos y aprendizajes!
 
+---
 
-💡 *"El código limpio no es una opción, es una filosofía que define al ingeniero."*
+💡 *"Las cosas simples deben ser simples, las complejas deben ser posibles."*
 
 ---
 
