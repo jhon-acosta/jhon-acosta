@@ -23,15 +23,6 @@ Desarrollador apasionado por crear soluciones escalables y eficaces. Con experie
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-acosta&layout=compact&theme=github_dark&hide=html,css&langs_count=6" alt="Lenguajes más usados"></td>
-    <td><img src="https://streak-stats.demolab.com?user=jhon-acosta&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="Racha de Contribuciones"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><h3>🌟 Logros</h3></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=jhon-acosta&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies">
-    </td>
   </tr>
 </table>
 
